@@ -13,8 +13,13 @@ Supervised learning is a machine learning concept that allows data scientists to
 We use the following models to predict Oscar
 
 Logistic Regression
+
 Decision Trees
+
 Random Forests
-Artificial Neural Networks We evaluate each of the models to see accuracy and try to better the prediction results
+
+Artificial Neural Networks 
+
+We evaluate each of the models to see accuracy and try to better the prediction results
 ## References
 Kaggle -> https://www.kaggle.com/datasets/martinmraz07/oscar-movies
